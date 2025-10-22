@@ -1,7 +1,7 @@
 # 🕌 Asmaul Husna API  
 
 [![](https://data.jsdelivr.com/v1/package/gh/wnr-code/asmaul_husna/badge)](https://www.jsdelivr.com/package/gh/wnr-code/asmaul_husna)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Version v1](https://img.shields.io/badge/API-v1-blue)
 ![Version v2](https://img.shields.io/badge/API-v2-green)
 
@@ -20,8 +20,8 @@ Proyek ini tersedia dalam **dua versi data JSON**, disesuaikan untuk kebutuhan r
 
 | Versi | Deskripsi | Lokasi File (CDN) |
 |--------|------------|------------------|
-| **v1** | Versi **ringkas**, hanya berisi `id`, `arabic`, `latin`, `en`, dan `idn`. | [edge/data/v1/asmaul_husna.json](https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json) |
-| **v2** | Versi **lengkap**, berisi juga `makna`, `faedah`, `amalan`, dan `referensi` ayat Al-Qur’an. | [edge/data/v2/asmaul_husna.json](https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json) |
+| **v1** | Versi **ringkas**, hanya berisi `id`, `arabic`, `latin`, `en`, dan `idn`. | [v1/asmaul_husna.json](https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v1/asmaul_husna.json) |
+| **v2** | Versi **lengkap**, berisi juga `makna`, `faedah`, `amalan`, dan `referensi` ayat Al-Qur’an. | [v2/asmaul_husna.json](https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v2/asmaul_husna.json) |
 
 ---
 
@@ -33,7 +33,7 @@ Proyek ini tersedia dalam **dua versi data JSON**, disesuaikan untuk kebutuhan r
 | **Versi Terbaru** | 2.0.0 |
 | **Format** | JSON |
 | **Total Items** | 99 |
-| **License** | [MIT License](../../LICENSE) |
+| **License** | [MIT License](LICENSE) |
 | **Language** | Arabic → Indonesian (+ English) |
 | **Maintainer** | WNR Code |
 | **Source Repo** | [github.com/wnr-code/asmaul_husna](https://github.com/wnr-code/asmaul_husna) |
@@ -62,7 +62,7 @@ https://v1.quran.wnr.app/api/asmaulhusna
 
 ### 🔹 Versi 1 (Ringkas)
 ```bash
-https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json
+https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v1/asmaul_husna.json
 ```
 
 **Contoh Respons:**
@@ -88,7 +88,7 @@ https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna
 
 ### 🔹 Versi 2 (Lengkap)
 ```bash
-https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json
+https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v2/asmaul_husna.json
 ```
 
 **Contoh Respons:**
@@ -124,7 +124,7 @@ https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna
 
 ### 🔸 JavaScript
 ```js
-fetch("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json")
+fetch("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v1/asmaul_husna.json")
   .then(res => res.json())
   .then(data => console.log(data.asmaul_husna));
 ```
@@ -133,13 +133,13 @@ fetch("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmau
 ```js
 import axios from "axios";
 
-const res = await axios.get("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json");
+const res = await axios.get("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v2/asmaul_husna.json");
 console.log(res.data.asmaul_husna[0]);
 ```
 
 ### 🔸 curl
 ```bash
-curl https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json
+curl https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v2/asmaul_husna.json
 ```
 
 ---
@@ -150,7 +150,7 @@ curl https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_
 <ul id="asmaul-husna"></ul>
 
 <script>
-  fetch("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json")
+  fetch("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/v1/asmaul_husna.json")
     .then(res => res.json())
     .then(data => {
       const list = document.getElementById("asmaul-husna");
@@ -167,7 +167,7 @@ curl https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_
 
 ## 🧾 Lisensi
 
-Proyek ini dirilis di bawah lisensi **[MIT License](../../LICENSE)**.  
+Proyek ini dirilis di bawah lisensi **[MIT License](LICENSE)**.  
 Kamu bebas menggunakan, menyalin, atau memodifikasi selama mencantumkan atribusi ke:
 
 > © 2025 [WNR Code](https://github.com/wnr-code)
