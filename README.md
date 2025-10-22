@@ -53,21 +53,39 @@ https://v1.quran.wnr.app/api/asmaulhusna
 ```
 ### 🔹// V1 - Simple version
 ```bash
-GET /api/asmaulhusna/v1
-GET /api/asmaulhusna/v1/1
-GET /api/asmaulhusna/v1?q=rahman
+GET /api/asmaulhusna/v1          # All data v1 (simple)
+GET /api/asmaulhusna/v1/1        # Single item v1
+GET /api/asmaulhusna/v1?q=rahman # Search v
 ```
 ### 🔹// V2 - Extended version  
 ```bash
-GET /api/asmaulhusna/v2
-GET /api/asmaulhusna/v2/1
-GET /api/asmaulhusna/v2?q=pengasih
+GET /api/asmaulhusna/v2          # All data v2 (extended)  
+GET /api/asmaulhusna/v2/1        # Single item v2
+GET /api/asmaulhusna/v2?q=pengasih # Search v2
 ```
-### 🔹// Legacy support (redirect ke v1)
+### 🔹✅ Legacy Support (Auto Redirect):
 ```bash
-GET /api/asmaulhusna/1 → Redirect ke /api/asmaulhusna/v1/1
+GET /api/asmaul-husna       → /api/asmaulhusna/v1
+GET /api/asmaul-husna/1     → /api/asmaulhusna/v1/1  
+GET /api/asmaulhusna        → /api/asmaulhusna/v1
+GET /api/asmaulhusna/1      → /api/asmaulhusna/v1/1
 ```
 
+### 🔹// Daily Random (sama untuk semua user hari ini)
+```bash
+GET /api/asmaulhusna/v1/random
+GET /api/asmaulhusna/v2/random
+```
+### 🔹// Multiple Random 
+```bash
+GET /api/asmaulhusna/v1/random?count=5
+GET /api/asmaulhusna/v2/random?count=3
+```
+### 🔹// Legacy Support
+```bash
+GET /api/asmaulhusna/random → /api/asmaulhusna/v1/random
+GET /api/asmaul-husna/random → /api/asmaulhusna/v1/random
+```
 
 🧭 **Dokumentasi Lengkap:** [https://v1.quran.wnr.app/docs](https://v1.quran.wnr.app/docs)
 
