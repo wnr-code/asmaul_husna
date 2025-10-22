@@ -1,4 +1,29 @@
-[
+{
+  "meta": {
+  "title": "Asmaul Husna",
+  "description": "99 Nama-nama Allah yang indah dengan terjemahan dan faedahnya.",
+  "version": "1.0.0",
+  "language": {
+    "original": "Arabic",
+    "translated": "Indonesian",
+    "additional": ["English"]
+  },
+  "source": {
+    "author": "WNR Code",
+    "repository": "https://github.com/wnr-code/asmaul_husna",
+    "license": "MIT",
+    "data_origin": "https://www.jsdelivr.com/package/gh/wnr-code/asmaul_husna"
+  },
+  "tags": ["Islam", "Asmaul Husna", "Al-Quran", "Names of Allah"],
+  "created_at": "2025-10-20T00:00:00Z",
+  "last_updated": "2025-10-22T00:00:00Z",
+  "format": "JSON",
+  "total_items": 99,
+  "generator": "GPT AI",
+  "maintainer": "WNR Code"
+},
+  "asmaul_husna": [
+    
   {
     "id": 1,
     "arabic": "ٱلرَّحْمَـٰنُ",
@@ -693,3 +718,4 @@
     "idn": "Nama Allah yang Maha Agung"
   }
 ]
+}

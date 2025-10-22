@@ -1,11 +1,14 @@
-
-
-````markdown
 # 🕌 Asmaul Husna API  
+
 [![](https://data.jsdelivr.com/v1/package/gh/wnr-code/asmaul_husna/badge)](https://www.jsdelivr.com/package/gh/wnr-code/asmaul_husna)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
+![Version v1](https://img.shields.io/badge/API-v1-blue)
+![Version v2](https://img.shields.io/badge/API-v2-green)
 
 > 99 Nama-nama Allah yang indah dengan terjemahan, makna, faedah, dan referensinya.  
 > Disusun oleh **WNR Code** — versi publik API: [`v1.quran.wnr.app`](https://v1.quran.wnr.app)
+
+📘 **Dokumen Lengkap API Publik:** [https://v1.quran.wnr.app/docs](https://v1.quran.wnr.app/docs)
 
 ---
 
@@ -13,11 +16,12 @@
 
 **Asmaul Husna API** adalah dataset terbuka berisi **99 nama Allah (Asmaul Husna)** dalam bahasa Arab, Latin, Inggris, dan Indonesia — lengkap dengan **makna, faedah, amalan, dan referensi Al-Qur'an**.
 
-Proyek ini dibuat agar dapat diakses oleh publik — baik untuk keperluan:
-- Aplikasi Islami 📱  
-- Website pembelajaran 🕋  
-- Bot Telegram / Discord 🤖  
-- Riset bahasa Arab atau tafsir Al-Qur’an 📚  
+Proyek ini tersedia dalam **dua versi data JSON**, disesuaikan untuk kebutuhan ringan maupun lengkap:
+
+| Versi | Deskripsi | Lokasi File (CDN) |
+|--------|------------|------------------|
+| **v1** | Versi **ringkas**, hanya berisi `id`, `arabic`, `latin`, `en`, dan `idn`. | [edge/data/v1/asmaul_husna.json](https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json) |
+| **v2** | Versi **lengkap**, berisi juga `makna`, `faedah`, `amalan`, dan `referensi` ayat Al-Qur’an. | [edge/data/v2/asmaul_husna.json](https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json) |
 
 ---
 
@@ -26,39 +30,46 @@ Proyek ini dibuat agar dapat diakses oleh publik — baik untuk keperluan:
 | Atribut | Nilai |
 |----------|--------|
 | **Title** | Asmaul Husna |
-| **Version** | 1.0.0 |
+| **Versi Terbaru** | 2.0.0 |
 | **Format** | JSON |
-| **License** | MIT |
 | **Total Items** | 99 |
+| **License** | [MIT License](../../LICENSE) |
 | **Language** | Arabic → Indonesian (+ English) |
 | **Maintainer** | WNR Code |
 | **Source Repo** | [github.com/wnr-code/asmaul_husna](https://github.com/wnr-code/asmaul_husna) |
-| **Data Origin (CDN)** | [jsDelivr](https://www.jsdelivr.com/package/gh/wnr-code/asmaul_husna) |
-| **Generator** | Gemini AI |
+| **CDN (jsDelivr)** | [jsDelivr Package](https://www.jsdelivr.com/package/gh/wnr-code/asmaul_husna) |
+| **Generator** | GPT AI |
 | **Created At** | 2025-10-20 |
 | **Last Updated** | 2025-10-22 |
 
 ---
 
-## 🚀 Penggunaan API Publik
+## 🚀 Endpoint API Publik
 
-### 🔹 Endpoint Utama
+Gunakan API ini jika ingin mengakses data Asmaul Husna dengan parameter dan pencarian.
+
 ```bash
 https://v1.quran.wnr.app/api/asmaulhusna
-````
+```
 
-### 🔹 Mendapatkan Semua Nama
+🧭 **Dokumentasi Lengkap:** [https://v1.quran.wnr.app/docs](https://v1.quran.wnr.app/docs)
 
+---
+
+## 📦 Akses File JSON Langsung (CDN)
+
+> Cocok jika kamu hanya butuh dataset mentah tanpa server API.
+
+### 🔹 Versi 1 (Ringkas)
 ```bash
-GET https://v1.quran.wnr.app/api/asmaulhusna
+https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json
 ```
 
 **Contoh Respons:**
-
 ```json
 {
   "meta": {
-    "title": "Asmaul Husna",
+    "version": "1.0.0",
     "total_items": 99
   },
   "asmaul_husna": [
@@ -75,51 +86,33 @@ GET https://v1.quran.wnr.app/api/asmaulhusna
 
 ---
 
-### 🔹 Mendapatkan Nama Berdasarkan ID
-
+### 🔹 Versi 2 (Lengkap)
 ```bash
-GET https://v1.quran.wnr.app/api/asmaulhusna/1
+https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json
 ```
 
 **Contoh Respons:**
-
 ```json
 {
-  "id": 1,
-  "arabic": "ٱلرَّحْمَـٰنُ",
-  "latin": "Ar-Rahmaan",
-  "en": "The Most Compassionate",
-  "idn": "Yang Maha Pengasih",
-  "faedah": {
-    "makna": "Kasih sayang Allah yang luas...",
-    "amalan": "Berdoa dan berzikir...",
-    "referensi": [
-      "QS. Al-Fatihah: 3",
-      "QS. Maryam: 96"
-    ]
-  }
-}
-```
-
----
-
-### 🔹 Pencarian Berdasarkan Nama (Latin / Arab / IDN)
-
-```bash
-GET https://v1.quran.wnr.app/api/asmaulhusna/search?q=rahman
-```
-
-**Contoh Hasil:**
-
-```json
-{
-  "result": [
+  "meta": {
+    "version": "2.0.0",
+    "total_items": 99
+  },
+  "asmaul_husna": [
     {
       "id": 1,
       "arabic": "ٱلرَّحْمَـٰنُ",
       "latin": "Ar-Rahmaan",
       "en": "The Most Compassionate",
-      "idn": "Yang Maha Pengasih"
+      "idn": "Yang Maha Pengasih",
+      "faedah": {
+        "makna": "Kasih sayang Allah yang luas mencakup semua makhluk.",
+        "amalan": "Berdoa dan berzikir dengan menyebut Ar-Rahmaan.",
+        "referensi": [
+          "QS. Al-Fatihah: 3",
+          "QS. Maryam: 96"
+        ]
+      }
     }
   ]
 }
@@ -127,49 +120,37 @@ GET https://v1.quran.wnr.app/api/asmaulhusna/search?q=rahman
 
 ---
 
-## 📦 File JSON Langsung (CDN)
-
-> Jika hanya butuh dataset mentah (tanpa endpoint API), bisa langsung akses via jsDelivr:
-
-📂 **File:**
-[https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/asmaul_husna.json](https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/asmaul_husna.json)
-
----
-
 ## ⚙️ Integrasi Cepat
 
-### 🔸 Menggunakan `fetch` (JavaScript)
-
+### 🔸 JavaScript
 ```js
-fetch("https://v1.quran.wnr.app/api/asmaulhusna")
+fetch("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json")
   .then(res => res.json())
   .then(data => console.log(data.asmaul_husna));
 ```
 
-### 🔸 Menggunakan `axios` (Node.js)
-
+### 🔸 Node.js (Axios)
 ```js
 import axios from "axios";
 
-const res = await axios.get("https://v1.quran.wnr.app/api/asmaulhusna/5");
-console.log(res.data);
+const res = await axios.get("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json");
+console.log(res.data.asmaul_husna[0]);
 ```
 
-### 🔸 Menggunakan `curl` (Terminal)
-
+### 🔸 curl
 ```bash
-curl https://v1.quran.wnr.app/api/asmaulhusna/10
+curl https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v2/asmaul_husna.json
 ```
 
 ---
 
-## 💡 Contoh Penggunaan di Website
+## 💡 Contoh di Website
 
 ```html
 <ul id="asmaul-husna"></ul>
 
 <script>
-  fetch("https://v1.quran.wnr.app/api/asmaulhusna")
+  fetch("https://cdn.jsdelivr.net/gh/wnr-code/asmaul_husna@main/edge/data/v1/asmaul_husna.json")
     .then(res => res.json())
     .then(data => {
       const list = document.getElementById("asmaul-husna");
@@ -186,7 +167,8 @@ curl https://v1.quran.wnr.app/api/asmaulhusna/10
 
 ## 🧾 Lisensi
 
-Proyek ini dirilis di bawah lisensi **MIT** — kamu bebas menggunakan, menyalin, atau memodifikasi selama mencantumkan atribusi ke:
+Proyek ini dirilis di bawah lisensi **[MIT License](../../LICENSE)**.  
+Kamu bebas menggunakan, menyalin, atau memodifikasi selama mencantumkan atribusi ke:
 
 > © 2025 [WNR Code](https://github.com/wnr-code)
 
@@ -194,24 +176,24 @@ Proyek ini dirilis di bawah lisensi **MIT** — kamu bebas menggunakan, menyalin
 
 ## 💬 Kontribusi
 
-Kontribusi sangat diterima!
+Kontribusi sangat diterima!  
 Kalau kamu menemukan kesalahan atau ingin menambah fitur baru:
 
-1. Fork repositori ini.
-2. Edit file JSON atau tambahkan endpoint.
-3. Kirim *Pull Request*.
+1. Fork repositori ini.  
+2. Edit file JSON di folder `v1` atau `v2`.  
+3. Kirim *Pull Request*.  
 
 ---
 
 ## ✨ Kredit
 
-* **Data Source:** WNR Code
-* **Generator:** Gemini AI
-* **API Host:** [v1.quran.wnr.app](https://v1.quran.wnr.app)
-* **Kontributor:** Komunitas Pengembang Muslim 🌙
+* **Data Source:** WNR Code  
+* **Generator:** GPT AI  
+* **API Host:** [v1.quran.wnr.app](https://v1.quran.wnr.app)  
+* **Dokumentasi Publik:** [v1.quran.wnr.app/docs](https://v1.quran.wnr.app/docs)  
+* **Kontributor:** Komunitas Pengembang Muslim 🌙  
 
 ---
 
-> *"Dan Allah memiliki Asmaul Husna, maka bermohonlah kepada-Nya dengan menyebut Asmaul Husna itu."*
+> *"Dan Allah memiliki Asmaul Husna, maka bermohonlah kepada-Nya dengan menyebut Asmaul Husna itu."*  
 > **— QS. Al-A’raf: 180**
-
