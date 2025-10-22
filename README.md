@@ -51,6 +51,23 @@ Gunakan API ini jika ingin mengakses data Asmaul Husna dengan parameter dan penc
 ```bash
 https://v1.quran.wnr.app/api/asmaulhusna
 ```
+### 🔹// V1 - Simple version
+```bash
+GET /api/asmaulhusna/v1
+GET /api/asmaulhusna/v1/1
+GET /api/asmaulhusna/v1?q=rahman
+```
+### 🔹// V2 - Extended version  
+```bash
+GET /api/asmaulhusna/v2
+GET /api/asmaulhusna/v2/1
+GET /api/asmaulhusna/v2?q=pengasih
+```
+### 🔹// Legacy support (redirect ke v1)
+```bash
+GET /api/asmaulhusna/1 → Redirect ke /api/asmaulhusna/v1/1
+```
+
 
 🧭 **Dokumentasi Lengkap:** [https://v1.quran.wnr.app/docs](https://v1.quran.wnr.app/docs)
 
