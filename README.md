@@ -38,7 +38,7 @@ Proyek ini tersedia dalam **dua versi data JSON**, disesuaikan untuk kebutuhan r
 | **Maintainer** | WNR Code |
 | **Source Repo** | [github.com/wnr-code/asmaul_husna](https://github.com/wnr-code/asmaul_husna) |
 | **CDN (jsDelivr)** | [jsDelivr Package](https://www.jsdelivr.com/package/gh/wnr-code/asmaul_husna) |
-| **Generator** | GPT AI |
+| **Generator** | Gemini & GPT |
 | **Created At** | 2025-10-20 |
 | **Last Updated** | 2025-10-22 |
 
