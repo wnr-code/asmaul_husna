@@ -1,0 +1,1419 @@
+{
+  "meta": {
+  "title": "Asmaul Husna",
+  "description": "99 Nama-nama Allah yang indah dengan terjemahan dan faedahnya.",
+  "version": "2.0.0",
+  "language": {
+    "original": "Arabic",
+    "translated": "Indonesian",
+    "additional": ["English"]
+  },
+  "source": {
+    "author": "WNR Code",
+    "repository": "https://github.com/wnr-code/asmaul_husna",
+    "license": "MIT",
+    "data_origin": "https://www.jsdelivr.com/package/gh/wnr-code/asmaul_husna"
+  },
+  "tags": ["Islam", "Asmaul Husna", "Al-Quran", "Names of Allah"],
+  "created_at": "2025-10-20T00:00:00Z",
+  "last_updated": "2025-10-22T00:00:00Z",
+  "format": "JSON",
+  "total_items": 99,
+  "generator": "Gemini AI",
+  "maintainer": "WNR Code"
+},
+  "asmaul_husna": [
+    {
+      "id": 1,
+      "arabic": "ٱلرَّحْمَـٰنُ",
+      "latin": "Ar-Rahmaan",
+      "en": "The Most Compassionate",
+      "idn": "Yang Maha Pengasih",
+      "faedah": {
+        "makna": "Kasih sayang Allah yang luas, mencakup seluruh makhluk di dunia, baik yang beriman maupun yang tidak.",
+        "amalan": "Berdoa dan berzikir dengan nama ini untuk memohon rahmat dan kasih sayang-Nya.",
+        "referensi": [
+          "QS. Al-Fatihah: 3",
+          "QS. Maryam: 96"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "arabic": "ٱلرَّحِيمُ",
+      "latin": "Ar-Rahiim",
+      "en": "The Most Merciful",
+      "idn": "Yang Maha Penyayang",
+      "faedah": {
+        "makna": "Kasih sayang Allah yang khusus, hanya diberikan kepada hamba-hamba-Nya yang beriman di akhirat.",
+        "amalan": "Berdoa dan berzikir dengan nama ini untuk memohon belas kasih dan ampunan-Nya.",
+        "referensi": [
+          "QS. Al-Ahzab: 43",
+          "QS. Yusuf: 64"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "arabic": "ٱلْمَلِكُ",
+      "latin": "Al-Malik",
+      "en": "The King, The Absolute Ruler",
+      "idn": "Yang Maha Merajai/Raja",
+      "faedah": {
+        "makna": "Allah adalah Penguasa mutlak atas segala sesuatu, memiliki dan mengatur seluruh alam semesta.",
+        "amalan": "Berdoa dengan nama ini untuk memohon ketenangan hati dan terhindar dari ketamakan dunia.",
+        "referensi": [
+          "QS. Al-Mu’minun: 116",
+          "QS. Al-Hashr: 23"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "arabic": "ٱلْقُدُّوسُ",
+      "latin": "Al-Qudduus",
+      "en": "The Most Holy",
+      "idn": "Yang Maha Suci",
+      "faedah": {
+        "makna": "Allah bebas dari segala kekurangan, aib, dan cacat, dan Maha Suci dari segala sesuatu yang tidak layak bagi-Nya.",
+        "amalan": "Berzikir dengan nama ini untuk memohon penyucian hati dan jiwa dari dosa dan sifat buruk.",
+        "referensi": [
+          "QS. Al-Hashr: 23",
+          "QS. Al-Jumu'ah: 1"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "arabic": "ٱلسَّلَامُ",
+      "latin": "As-Salaam",
+      "en": "The Source of Peace",
+      "idn": "Yang Maha Pemberi Kesejahteraan/Keselamatan",
+      "faedah": {
+        "makna": "Allah adalah sumber kedamaian dan keselamatan, serta yang memberikan keamanan dan ketenangan bagi makhluk-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kedamaian, keselamatan, dan perlindungan dari segala bahaya.",
+        "referensi": [
+          "QS. Al-Hashr: 23"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "arabic": "ٱلْمُؤْمِنُ",
+      "latin": "Al-Mu’min",
+      "en": "The Giver of Faith/Security",
+      "idn": "Yang Maha Memberi Keamanan/Kepercayaan",
+      "faedah": {
+        "makna": "Allah memberikan rasa aman kepada hamba-hamba-Nya dan membenarkan janji-janji-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon rasa aman, terhindar dari ketakutan, dan memperkuat keimanan.",
+        "referensi": [
+          "QS. Al-Hashr: 23"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "arabic": "ٱلْمُهَيْمِنُ",
+      "latin": "Al-Muhaymin",
+      "en": "The Protector, The Guardian",
+      "idn": "Yang Maha Memelihara/Mengawasi",
+      "faedah": {
+        "makna": "Allah mengawasi, memelihara, dan mengurus semua urusan makhluk-Nya secara menyeluruh.",
+        "amalan": "Berdoa dengan nama ini untuk memohon perlindungan dan pengawasan Allah dalam segala urusan.",
+        "referensi": [
+          "QS. Al-Hashr: 23"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "arabic": "ٱلْعَزِيزُ",
+      "latin": "Al-‘Aziiz",
+      "en": "The Almighty, The Invulnerable",
+      "idn": "Yang Maha Perkasa",
+      "faedah": {
+        "makna": "Allah memiliki kekuatan yang tak terkalahkan, keperkasaan, dan kemuliaan yang tak tertandingi.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kehormatan, kekuatan batin, dan agar disegani.",
+        "referensi": [
+          "QS. Al-Hashr: 23"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "arabic": "ٱلْجَبَّارُ",
+      "latin": "Al-Jabbaar",
+      "en": "The Compeller, The Restorer",
+      "idn": "Yang Maha Memaksa/Maha Memperbaiki",
+      "faedah": {
+        "makna": "Allah memiliki kehendak yang memaksa dan menundukkan segala sesuatu, serta Dia Maha Memperbaiki segala yang rusak.",
+        "amalan": "Berdoa dengan nama ini untuk memohon perbaikan segala urusan dan penguatan tekad.",
+        "referensi": [
+          "QS. Al-Hashr: 23"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "arabic": "ٱلْمُتَكَبِّرُ",
+      "latin": "Al-Mutakabbir",
+      "en": "The Supreme in Greatness",
+      "idn": "Yang Maha Megah/Maha Besar",
+      "faedah": {
+        "makna": "Allah memiliki keagungan yang hanya milik-Nya; Maha Besar dan Maha Mulia.",
+        "amalan": "Berzikir dengan nama ini untuk memohon dijauhkan dari sifat sombong dan riya.",
+        "referensi": [
+          "QS. Al-Hashr: 23"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "arabic": "ٱلْخَالِقُ",
+      "latin": "Al-Khaaliq",
+      "en": "The Creator",
+      "idn": "Yang Maha Pencipta",
+      "faedah": {
+        "makna": "Allah menciptakan segala sesuatu dari tidak ada, merencanakan, dan mengukurnya dengan hikmah.",
+        "amalan": "Berdoa dengan nama ini untuk memohon dimudahkan dalam pekerjaan kreatif atau menemukan ide baru.",
+        "referensi": [
+          "QS. Az-Zumar: 62",
+          "QS. Al-Hashr: 24"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "arabic": "ٱلْبَارِئُ",
+      "latin": "Al-Baari’",
+      "en": "The Evolver, The Maker",
+      "idn": "Yang Maha Mengadakan/Menciptakan",
+      "faedah": {
+        "makna": "Allah mengadakan dan menciptakan makhluk-Nya dari perencanaan yang telah ada.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kesempurnaan dalam pekerjaan dan kehidupan.",
+        "referensi": [
+          "QS. Al-Hashr: 24"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "arabic": "ٱلْمُصَوِّرُ",
+      "latin": "Al-Mushawwir",
+      "en": "The Fashioner",
+      "idn": "Yang Maha Membentuk Rupa",
+      "faedah": {
+        "makna": "Allah memberi bentuk dan rupa terbaik bagi setiap ciptaan-Nya, sesuai kehendak-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kebaikan rupa dan agar diterima di kalangan masyarakat.",
+        "referensi": [
+          "QS. Al-Hashr: 24"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "arabic": "ٱلْغَفَّارُ",
+      "latin": "Al-Ghaffaar",
+      "en": "The All-Forgiving",
+      "idn": "Yang Maha Pengampun",
+      "faedah": {
+        "makna": "Allah Maha Mengampuni dosa-dosa hamba-Nya yang bertaubat, menutupi kesalahan mereka.",
+        "amalan": "Beristighfar dan berzikir dengan nama ini untuk memohon ampunan dosa-dosa besar.",
+        "referensi": [
+          "QS. Nuh: 10",
+          "QS. Al-Muzzammil: 20"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "arabic": "ٱلْقَهَّارُ",
+      "latin": "Al-Qahhaar",
+      "en": "The Subduer, The Irresistible",
+      "idn": "Yang Maha Menggenggam/Menundukkan",
+      "faedah": {
+        "makna": "Allah menundukkan dan menguasai semua makhluk dengan kekuasaan-Nya yang tak terhindarkan.",
+        "amalan": "Berdoa dengan nama ini untuk memohon pertolongan agar terhindar dari dominasi hawa nafsu atau musuh.",
+        "referensi": [
+          "QS. Ar-Ra’d: 16"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "arabic": "ٱلْوَهَّابُ",
+      "latin": "Al-Wahhaab",
+      "en": "The Bestower, The Giver of All",
+      "idn": "Yang Maha Pemberi Karunia",
+      "faedah": {
+        "makna": "Allah memberikan anugerah dan karunia tanpa batas, tanpa imbalan, dan tanpa diminta.",
+        "amalan": "Berdoa dengan nama ini untuk memohon karunia, rezeki, dan hajat-hajat yang baik.",
+        "referensi": [
+          "QS. Ali ‘Imran: 8"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "arabic": "ٱلرَّزَّاقُ",
+      "latin": "Ar-Razzaaq",
+      "en": "The Provider, The Sustainer",
+      "idn": "Yang Maha Pemberi Rezeki",
+      "faedah": {
+        "makna": "Allah memberi rezeki kepada seluruh makhluk-Nya, baik materi maupun non-materi.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kelapangan rezeki yang halal dan berkah.",
+        "referensi": [
+          "QS. Adz-Dzariyat: 58"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "arabic": "ٱلْفَتَّاحُ",
+      "latin": "Al-Fattaah",
+      "en": "The Opener, The Granter of Success",
+      "idn": "Yang Maha Pembuka",
+      "faedah": {
+        "makna": "Allah membuka pintu rahmat, rezeki, kemenangan, dan segala kemudahan bagi hamba-Nya.",
+        "amalan": "Berdoa dengan nama ini sebelum memulai pekerjaan atau menuntut ilmu agar urusan dimudahkan dan diberi keberhasilan.",
+        "referensi": [
+          "QS. Saba’: 26"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "arabic": "ٱلْعَلِيمُ",
+      "latin": "Al-‘Aliim",
+      "en": "The All-Knowing, The Omniscient",
+      "idn": "Yang Maha Mengetahui",
+      "faedah": {
+        "makna": "Allah mengetahui segala sesuatu, baik yang tampak maupun tersembunyi, masa lalu, sekarang, dan yang akan datang.",
+        "amalan": "Berdoa dengan nama ini untuk memohon ilmu, hikmah, dan pemahaman mendalam.",
+        "referensi": [
+          "QS. Al-Baqarah: 32"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "arabic": "ٱلْقَابِضُ",
+      "latin": "Al-Qaabidh",
+      "en": "The Withholder, The Restrictor",
+      "idn": "Yang Maha Menyempitkan (Rezeki)",
+      "faedah": {
+        "makna": "Allah dapat menyempitkan rezeki atau nikmat bagi siapa yang dikehendaki-Nya, sesuai dengan hikmah-Nya.",
+        "amalan": "Berzikir dengan nama ini saat diuji kesempitan, memohon kesabaran dan keridhaan terhadap ketetapan-Nya.",
+        "referensi": [
+          "QS. Al-Baqarah: 245"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "arabic": "ٱلْبَاسِطُ",
+      "latin": "Al-Baasith",
+      "en": "The Expander, The Enlarger",
+      "idn": "Yang Maha Melapangkan (Rezeki)",
+      "faedah": {
+        "makna": "Allah dapat melapangkan rezeki atau nikmat bagi siapa yang dikehendaki-Nya, sebagai ujian atau karunia.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kelapangan rezeki dan kemudahan hidup.",
+        "referensi": [
+          "QS. Al-Baqarah: 245"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "arabic": "ٱلْخَافِضُ",
+      "latin": "Al-Khaafidh",
+      "en": "The Abaser, The Humbler",
+      "idn": "Yang Maha Merendahkan",
+      "faedah": {
+        "makna": "Allah merendahkan orang-orang yang sombong dan durhaka di dunia dan akhirat.",
+        "amalan": "Berzikir dengan nama ini untuk memohon dijauhkan dari sifat takabur dan agar diberi kerendahan hati.",
+        "referensi": [
+          "QS. Al-Waqi'ah: 3"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "arabic": "ٱلرَّافِعُ",
+      "latin": "Ar-Raafi’",
+      "en": "The Exalter, The Elevator",
+      "idn": "Yang Maha Meninggikan",
+      "faedah": {
+        "makna": "Allah meninggikan derajat orang-orang beriman dan ahli ibadah di dunia dan akhirat.",
+        "amalan": "Berdoa dengan nama ini untuk memohon peningkatan derajat, kehormatan, dan kedudukan yang baik.",
+        "referensi": [
+          "QS. Al-Waqi'ah: 3"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "arabic": "ٱلْمُعِزُّ",
+      "latin": "Al-Mu’izz",
+      "en": "The Honourer, The Bestower of Honour",
+      "idn": "Yang Maha Memuliakan",
+      "faedah": {
+        "makna": "Allah memuliakan siapa pun yang dikehendaki-Nya, memberikan kemuliaan dan kehormatan.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kemuliaan dan martabat yang baik di mata manusia dan Allah.",
+        "referensi": [
+          "QS. Ali ‘Imran: 26"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "arabic": "ٱلْمُذِلُّ",
+      "latin": "Al-Muzill",
+      "en": "The Humiliator, The Dishonourer",
+      "idn": "Yang Maha Menghinakan",
+      "faedah": {
+        "makna": "Allah menghinakan dan merendahkan siapa pun yang dikehendaki-Nya karena kesombongan atau kedurhakaan.",
+        "amalan": "Berlindung kepada Allah dengan nama ini agar terhindar dari kehinaan dan kejahatan musuh.",
+        "referensi": [
+          "QS. Ali ‘Imran: 26"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "arabic": "ٱلسَّمِيعُ",
+      "latin": "As-Samii’",
+      "en": "The All-Hearing",
+      "idn": "Yang Maha Mendengar",
+      "faedah": {
+        "makna": "Allah mendengar segala ucapan dan bisikan makhluk-Nya, tidak ada yang tersembunyi dari-Nya.",
+        "amalan": "Berdoa dengan nama ini saat memanjatkan permohonan, meyakini bahwa Allah pasti mendengarnya.",
+        "referensi": [
+          "QS. Al-Baqarah: 256"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "arabic": "ٱلْبَصِيرُ",
+      "latin": "Al-Bashiir",
+      "en": "The All-Seeing",
+      "idn": "Yang Maha Melihat",
+      "faedah": {
+        "makna": "Allah melihat segala sesuatu, baik yang tersembunyi maupun yang nyata, tidak ada yang luput dari pandangan-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon ketajaman mata hati dan bimbingan dalam melihat kebenaran.",
+        "referensi": [
+          "QS. Al-Hajj: 75"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "arabic": "ٱلْحَكَمُ",
+      "latin": "Al-Hakam",
+      "en": "The Judge, The Arbitrator",
+      "idn": "Yang Maha Menetapkan Hukum/Hakim",
+      "faedah": {
+        "makna": "Allah adalah penentu hukum yang paling adil, yang akan memutuskan perkara seluruh makhluk di hari kiamat.",
+        "amalan": "Berdoa dengan nama ini untuk memohon keadilan dalam setiap urusan dan keputusan.",
+        "referensi": [
+          "QS. Al-An’am: 114"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "arabic": "ٱلْعَدْلُ",
+      "latin": "Al-‘Adl",
+      "en": "The Just",
+      "idn": "Yang Maha Adil",
+      "faedah": {
+        "makna": "Allah memberikan keadilan yang sempurna dan tidak pernah menzalimi satu makhluk pun.",
+        "amalan": "Berdoa dengan nama ini untuk memohon pertolongan dan keadilan dalam menghadapi kezaliman.",
+        "referensi": [
+          "QS. Al-An’am: 115"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "arabic": "ٱللَّطِيفُ",
+      "latin": "Al-Lathiif",
+      "en": "The Subtle One, The Kind",
+      "idn": "Yang Maha Lembut/Halus",
+      "faedah": {
+        "makna": "Allah sangat lembut dan halus, mengetahui hal-hal terkecil, dan menyampaikan rezeki/kebaikan dengan cara yang tak terduga.",
+        "amalan": "Berdoa dengan nama ini saat kesulitan, memohon pertolongan dan jalan keluar yang lembut (tidak terduga).",
+        "referensi": [
+          "QS. Al-Mulk: 14"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "arabic": "ٱلْخَبِيرُ",
+      "latin": "Al-Khabiir",
+      "en": "The All-Aware",
+      "idn": "Yang Maha Mengenal/Teliti",
+      "faedah": {
+        "makna": "Allah mengetahui segala rahasia, seluk-beluk, dan detail tersembunyi dari segala sesuatu.",
+        "amalan": "Berdoa dengan nama ini untuk memohon petunjuk dan ketelitian dalam mengambil keputusan penting.",
+        "referensi": [
+          "QS. Al-Mulk: 14"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "arabic": "ٱلْحَلِيمُ",
+      "latin": "Al-Haliim",
+      "en": "The Forbearing One, The Clement",
+      "idn": "Yang Maha Penyantun",
+      "faedah": {
+        "makna": "Allah tidak tergesa-gesa dalam menghukum hamba-Nya yang berdosa dan menunda hukuman-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon ketenangan hati, kesabaran, dan dijauhkan dari sifat pemarah.",
+        "referensi": [
+          "QS. Al-Baqarah: 235"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "arabic": "ٱلْعَظِيمُ",
+      "latin": "Al-‘Azhiim",
+      "en": "The Magnificent, The Great",
+      "idn": "Yang Maha Agung",
+      "faedah": {
+        "makna": "Allah memiliki keagungan yang tidak terjangkau akal dan Maha Besar di atas segala sesuatu.",
+        "amalan": "Berzikir dengan nama ini untuk memohon perlindungan, kekuatan, dan penjagaan dari bahaya.",
+        "referensi": [
+          "QS. Al-Baqarah: 255"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "arabic": "ٱلْغَفُورُ",
+      "latin": "Al-Ghafuur",
+      "en": "The All-Forgiving",
+      "idn": "Yang Maha Pengampun (Berkali-kali)",
+      "faedah": {
+        "makna": "Allah sangat sering dan banyak mengampuni dosa hamba-Nya yang bertaubat.",
+        "amalan": "Beristighfar dan berzikir dengan nama ini secara rutin untuk memohon ampunan yang terus menerus.",
+        "referensi": [
+          "QS. Al-Baqarah: 173"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "arabic": "ٱلشَّكُورُ",
+      "latin": "Asy-Syakuur",
+      "en": "The Grateful, The Appreciative",
+      "idn": "Yang Maha Berterima Kasih/Membalas Jasa",
+      "faedah": {
+        "makna": "Allah membalas amal kebaikan yang sedikit dengan pahala yang berlimpah, menghargai rasa syukur hamba-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon keberkahan dalam hidup dan agar amalan diterima.",
+        "referensi": [
+          "QS. Faathir: 30"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "arabic": "ٱلْعَلِيُّ",
+      "latin": "Al-‘Aliyy",
+      "en": "The Most High, The Exalted",
+      "idn": "Yang Maha Tinggi",
+      "faedah": {
+        "makna": "Allah berada di atas segala-galanya, Maha Tinggi, tidak ada yang setara dengan-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon peningkatan martabat dan kedudukan di hadapan Allah.",
+        "referensi": [
+          "QS. Asy-Syuura: 4"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "arabic": "ٱلْكَبِيرُ",
+      "latin": "Al-Kabiir",
+      "en": "The Most Great",
+      "idn": "Yang Maha Besar",
+      "faedah": {
+        "makna": "Allah memiliki kebesaran mutlak, tidak ada yang lebih besar dari-Nya.",
+        "amalan": "Berzikir dengan nama ini untuk mengingat kebesaran Allah dan menghindari kesombongan diri.",
+        "referensi": [
+          "QS. Ar-Ra’d: 9"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "arabic": "ٱلْحَفِيظُ",
+      "latin": "Al-Hafiizh",
+      "en": "The Preserver, The Guardian",
+      "idn": "Yang Maha Memelihara",
+      "faedah": {
+        "makna": "Allah menjaga dan memelihara segala sesuatu dari kerusakan, termasuk amal perbuatan hamba-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon perlindungan, penjagaan diri, keluarga, dan harta.",
+        "referensi": [
+          "QS. Huud: 57"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "arabic": "ٱلْمُقِيتُ",
+      "latin": "Al-Muqiit",
+      "en": "The Sustainer, The Maintainer",
+      "idn": "Yang Maha Memberi Kecukupan",
+      "faedah": {
+        "makna": "Allah memberi makanan dan segala kebutuhan hidup (fisik dan rohani) kepada makhluk-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kecukupan rezeki dan kebutuhan hidup.",
+        "referensi": [
+          "QS. An-Nisaa’: 85"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "arabic": "ٱلْحَسِيبُ",
+      "latin": "Al-Hasiib",
+      "en": "The Reckoner, The Accountant",
+      "idn": "Yang Maha Membuat Perhitungan/Mencukupi",
+      "faedah": {
+        "makna": "Allah Maha Menghitung segala amal perbuatan dan mencukupi kebutuhan hamba-Nya yang bertawakal.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kecukupan dan perlindungan dari kejahatan orang yang dengki.",
+        "referensi": [
+          "QS. An-Nisaa’: 6"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "arabic": "ٱلْجَلِيلُ",
+      "latin": "Al-Jaliil",
+      "en": "The Majestic, The Sublime",
+      "idn": "Yang Maha Luhur/Agung",
+      "faedah": {
+        "makna": "Allah memiliki sifat-sifat kebesaran, kemuliaan, dan keagungan yang sempurna.",
+        "amalan": "Berzikir dengan nama ini untuk meningkatkan rasa kagum kepada Allah dan memohon kehormatan.",
+        "referensi": [
+          "QS. Ar-Rahman: 27"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "arabic": "ٱلْكَرِيمُ",
+      "latin": "Al-Kariim",
+      "en": "The Most Generous, The Bountiful",
+      "idn": "Yang Maha Pemurah",
+      "faedah": {
+        "makna": "Allah memberikan pemberian tanpa batas, mudah memberi, dan memaafkan tanpa pamrih.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kemurahan rezeki dan dimuliakan di sisi Allah.",
+        "referensi": [
+          "QS. Al-Infitar: 6"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "arabic": "ٱلرَّقِيبُ",
+      "latin": "Ar-Raqiib",
+      "en": "The Watchful One, The Observer",
+      "idn": "Yang Maha Mengawasi",
+      "faedah": {
+        "makna": "Allah senantiasa mengawasi segala perbuatan, pikiran, dan keadaan makhluk-Nya.",
+        "amalan": "Berzikir dengan nama ini untuk menumbuhkan kesadaran bahwa Allah selalu mengawasi (muraqabah) dan menjauhi maksiat.",
+        "referensi": [
+          "QS. Al-Ahzab: 52"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "arabic": "ٱلْمُجِيبُ",
+      "latin": "Al-Mujiib",
+      "en": "The Responder to Prayer",
+      "idn": "Yang Maha Mengabulkan",
+      "faedah": {
+        "makna": "Allah mengabulkan doa dan permohonan hamba-Nya yang tulus dan bersungguh-sungguh.",
+        "amalan": "Berdoa dengan nama ini saat memohon hajat, meyakini bahwa Allah adalah Dzat yang pasti mengabulkan doa.",
+        "referensi": [
+          "QS. Huud: 61"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "arabic": "ٱلْوَاسِعُ",
+      "latin": "Al-Waasi’",
+      "en": "The All-Encompassing, The Boundless",
+      "idn": "Yang Maha Luas",
+      "faedah": {
+        "makna": "Rahmat, ilmu, dan kekuasaan Allah sangat luas, meliputi segala sesuatu dan tidak terbatas.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kelapangan rezeki, ilmu, dan rahmat-Nya yang luas.",
+        "referensi": [
+          "QS. Al-Baqarah: 268"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "arabic": "ٱلْحَكِيمُ",
+      "latin": "Al-Hakiim",
+      "en": "The Wise, The Judicious",
+      "idn": "Yang Maha Bijaksana",
+      "faedah": {
+        "makna": "Semua perbuatan, syariat, dan ketetapan Allah mengandung hikmah, kebenaran, dan keadilan.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kebijaksanaan dalam bertindak dan ketajaman berpikir.",
+        "referensi": [
+          "QS. Al-Baqarah: 260"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "arabic": "ٱلْوَدُودُ",
+      "latin": "Al-Waduud",
+      "en": "The Loving One, The Beloved",
+      "idn": "Yang Maha Mengasihi/Mencintai",
+      "faedah": {
+        "makna": "Allah mencintai hamba-hamba-Nya yang beriman dan beramal saleh, dan Dia sangat dicintai oleh mereka.",
+        "amalan": "Berdoa dengan nama ini untuk memohon dicintai oleh Allah dan menumbuhkan kasih sayang terhadap sesama.",
+        "referensi": [
+          "QS. Huud: 90"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "arabic": "ٱلْمَجِيدُ",
+      "latin": "Al-Majiid",
+      "en": "The Most Glorious One",
+      "idn": "Yang Maha Mulia",
+      "faedah": {
+        "makna": "Allah memiliki kemuliaan, keagungan, dan kebesaran yang sempurna dan pantas dipuji.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kemuliaan dan kehormatan di dunia dan akhirat.",
+        "referensi": [
+          "QS. Huud: 73"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "arabic": "ٱلْبَاعِثُ",
+      "latin": "Al-Baa’its",
+      "en": "The Resurrector, The Awakener",
+      "idn": "Yang Maha Membangkitkan",
+      "faedah": {
+        "makna": "Allah akan membangkitkan seluruh makhluk dari kubur pada Hari Kiamat untuk dihisab.",
+        "amalan": "Berzikir dengan nama ini untuk memperkuat keyakinan akan Hari Kebangkitan dan mempersiapkan diri menghadapinya.",
+        "referensi": [
+          "QS. Al-Hajj: 7"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "arabic": "ٱلشَّهِيدُ",
+      "latin": "Asy-Syahiid",
+      "en": "The Witness",
+      "idn": "Yang Maha Menyaksikan",
+      "faedah": {
+        "makna": "Allah menyaksikan, hadir, dan mengetahui segala sesuatu yang terjadi di alam semesta.",
+        "amalan": "Berdoa dengan nama ini untuk memohon perlindungan dari kecurangan dan agar kebenaran terungkap.",
+        "referensi": [
+          "QS. Al-Maa’idah: 117"
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "arabic": "ٱلْحَقُّ",
+      "latin": "Al-Haqq",
+      "en": "The Truth, The Real",
+      "idn": "Yang Maha Benar",
+      "faedah": {
+        "makna": "Allah adalah kebenaran yang mutlak, wujud-Nya pasti, dan sumber segala kebenaran.",
+        "amalan": "Berdoa dengan nama ini untuk memohon petunjuk kepada kebenaran dan keteguhan hati di dalamnya.",
+        "referensi": [
+          "QS. Al-Hajj: 6"
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "arabic": "ٱلْوَكِيلُ",
+      "latin": "Al-Wakiil",
+      "en": "The Trustee, The Dependable",
+      "idn": "Yang Maha Memelihara Urusan/Pelindung",
+      "faedah": {
+        "makna": "Allah adalah satu-satunya yang patut diserahi dan dijadikan sandaran segala urusan.",
+        "amalan": "Berdoa dengan nama ini saat bertawakal atau menghadapi kesulitan, menyerahkan segala urusan kepada Allah (Hasbunallah Wa Ni'mal Wakiil).",
+        "referensi": [
+          "QS. Ali ‘Imran: 173"
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "arabic": "ٱلْقَوِيُّ",
+      "latin": "Al-Qawiyy",
+      "en": "The Most Strong, The Powerful",
+      "idn": "Yang Maha Kuat",
+      "faedah": {
+        "makna": "Allah memiliki kekuatan yang tak terbatas dan tidak pernah lemah atau memerlukan bantuan.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kekuatan fisik dan batin dalam menghadapi kesulitan dan godaan.",
+        "referensi": [
+          "QS. Al-Hajj: 74"
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "arabic": "ٱلْمَتِينُ",
+      "latin": "Al-Matiin",
+      "en": "The Firm One, The Steadfast",
+      "idn": "Yang Maha Kokoh",
+      "faedah": {
+        "makna": "Allah memiliki kekokohan yang mutlak dalam kekuatan dan kekuasaan-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon dikokohkan keimanan dan keyakinan dalam menghadapi ujian.",
+        "referensi": [
+          "QS. Adz-Dzariyat: 58"
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "arabic": "ٱلْوَلِيُّ",
+      "latin": "Al-Waliyy",
+      "en": "The Protecting Friend, The Patron",
+      "idn": "Yang Maha Melindungi/Pelindung",
+      "faedah": {
+        "makna": "Allah adalah pelindung, penolong, dan penguasa yang mencintai hamba-hamba-Nya yang beriman.",
+        "amalan": "Berdoa dengan nama ini untuk memohon perlindungan, pertolongan, dan kecintaan dari Allah.",
+        "referensi": [
+          "QS. Asy-Syuura: 9"
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "arabic": "ٱلْحَمِيدُ",
+      "latin": "Al-Hamiid",
+      "en": "The Praiseworthy",
+      "idn": "Yang Maha Terpuji",
+      "faedah": {
+        "makna": "Allah adalah satu-satunya yang berhak menerima segala pujian atas segala sifat dan perbuatan-Nya.",
+        "amalan": "Memuji Allah dan berzikir dengan nama ini untuk memohon agar diberi sifat yang terpuji.",
+        "referensi": [
+          "QS. Ibraahiim: 8"
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "arabic": "ٱلْمُحْصِي",
+      "latin": "Al-Mukhshi",
+      "en": "The Counter, The Numberer",
+      "idn": "Yang Maha Menghitung",
+      "faedah": {
+        "makna": "Allah menghitung segala sesuatu, baik jumlah maupun detailnya; tiada yang luput dari hitungan-Nya.",
+        "amalan": "Berzikir dengan nama ini untuk menumbuhkan rasa takut dan sadar akan hisab (perhitungan amal) di akhirat.",
+        "referensi": [
+          "QS. Maryam: 94"
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "arabic": "ٱلْمُبْدِئُ",
+      "latin": "Al-Mubdi’",
+      "en": "The Originator, The Starter",
+      "idn": "Yang Maha Memulai",
+      "faedah": {
+        "makna": "Allah menciptakan segala sesuatu dari permulaan, mengawali penciptaan tanpa ada contoh sebelumnya.",
+        "amalan": "Berdoa dengan nama ini saat memulai proyek, pekerjaan, atau niat baik agar dimudahkan.",
+        "referensi": [
+          "QS. Ar-Ruum: 27"
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "arabic": "ٱلْمُعِيدُ",
+      "latin": "Al-Mu’iid",
+      "en": "The Restorer, The Reproducer",
+      "idn": "Yang Maha Mengembalikan",
+      "faedah": {
+        "makna": "Allah mengembalikan atau menghidupkan kembali makhluk setelah kematian (kebangkitan).",
+        "amalan": "Berdoa dengan nama ini untuk menguatkan keyakinan akan hari kebangkitan dan memohon pertolongan saat kehilangan.",
+        "referensi": [
+          "QS. Ar-Ruum: 27"
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "arabic": "ٱلْمُحْيِي",
+      "latin": "Al-Muhyii",
+      "en": "The Giver of Life",
+      "idn": "Yang Maha Menghidupkan",
+      "faedah": {
+        "makna": "Allah memberi dan mengembalikan kehidupan pada makhluk, juga menghidupkan hati dengan iman.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kesehatan, kekuatan iman, dan umur yang berkah.",
+        "referensi": [
+          "QS. Ar-Ruum: 50"
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "arabic": "ٱلْمُمِيتُ",
+      "latin": "Al-Mumiit",
+      "en": "The Taker of Life, The Destroyer",
+      "idn": "Yang Maha Mematikan",
+      "faedah": {
+        "makna": "Allah mencabut kehidupan dari makhluk sesuai kehendak-Nya; tidak ada yang kekal kecuali Dia.",
+        "amalan": "Berzikir dengan nama ini untuk mengingatkan diri akan kematian dan memohon husnul khatimah (akhir yang baik).",
+        "referensi": [
+          "QS. Ar-Ruum: 40"
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "arabic": "ٱلْحَيُّ",
+      "latin": "Al-Hayy",
+      "en": "The Ever-Living",
+      "idn": "Yang Maha Hidup",
+      "faedah": {
+        "makna": "Allah hidup kekal abadi, tidak pernah mati, binasa, atau lenyap.",
+        "amalan": "Berdoa dengan nama ini (sering digandengkan dengan Al-Qayyuum) untuk memohon keberkahan dan penyelesaian masalah.",
+        "referensi": [
+          "QS. Al-Baqarah: 255"
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "arabic": "ٱلْقَيُّومُ",
+      "latin": "Al-Qayyuum",
+      "en": "The Self-Subsisting, The Sustainer",
+      "idn": "Yang Maha Berdiri Sendiri",
+      "faedah": {
+        "makna": "Allah mandiri, tidak membutuhkan siapa pun, dan mengurus/menegakkan semua makhluk-Nya.",
+        "amalan": "Berdoa dengan nama ini (biasanya bersama Al-Hayy) untuk memohon kemandirian dan kekuatan dalam ibadah.",
+        "referensi": [
+          "QS. Al-Baqarah: 255"
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "arabic": "ٱلْوَاجِدُ",
+      "latin": "Al-Waajid",
+      "en": "The Perceiver, The Finder",
+      "idn": "Yang Maha Menemukan/Mendapati",
+      "faedah": {
+        "makna": "Allah menemukan dan mendapati segala sesuatu yang Dia kehendaki, tidak ada yang terlepas dari ilmu-Nya.",
+        "amalan": "Berzikir dengan nama ini untuk memohon kemudahan dalam menemukan solusi dan menjauhkan ketergantungan pada dunia.",
+        "referensi": [
+          "Diturunkan dari Hadits tentang bilangan Asmaul Husna"
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "arabic": "ٱلْمَاجِدُ",
+      "latin": "Al-Maajid",
+      "en": "The Illustrious, The Noble",
+      "idn": "Yang Maha Mulia",
+      "faedah": {
+        "makna": "Allah memiliki kemuliaan yang agung, sempurna, dan luas karunia-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kemuliaan dan kehormatan diri yang diridhai Allah.",
+        "referensi": [
+          "QS. Al-Buruj: 15"
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "arabic": "ٱلْوَاحِدُ",
+      "latin": "Al-Waahid",
+      "en": "The One, The Unique",
+      "idn": "Yang Maha Tunggal",
+      "faedah": {
+        "makna": "Allah adalah Esa dalam zat, sifat, dan perbuatan-Nya; tidak berbilang dan tidak ada sekutu bagi-Nya.",
+        "amalan": "Berzikir dengan nama ini untuk memperkuat tauhid dan memohon dijauhkan dari rasa takut dan cemas.",
+        "referensi": [
+          "QS. Al-Ikhlas: 1"
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "arabic": "ٱلْأَحَدُ",
+      "latin": "Al-Ahad",
+      "en": "The One, The Only",
+      "idn": "Yang Maha Esa",
+      "faedah": {
+        "makna": "Allah adalah satu-satunya, mutlak keesaan-Nya; tidak dapat dibagi-bagi dan tiada duanya.",
+        "amalan": "Memperbanyak bacaan Surat Al-Ikhlas dan berzikir dengan nama ini untuk mengesakan Allah secara total.",
+        "referensi": [
+          "QS. Al-Ikhlas: 1"
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "arabic": "ٱلصَّمَدُ",
+      "latin": "Ash-Shomad",
+      "en": "The Eternal, The Absolute",
+      "idn": "Yang Maha Dibutuhkan/Tempat Bergantung",
+      "faedah": {
+        "makna": "Allah adalah satu-satunya tempat bergantung dan memohon segala hajat, Dia tidak membutuhkan apa pun.",
+        "amalan": "Berdoa dengan nama ini saat menghadapi kebutuhan mendesak, memohon dipenuhi hajatnya oleh Allah.",
+        "referensi": [
+          "QS. Al-Ikhlas: 2"
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "arabic": "ٱلْقَادِرُ",
+      "latin": "Al-Qaadir",
+      "en": "The All-Powerful, The Able",
+      "idn": "Yang Maha Kuasa",
+      "faedah": {
+        "makna": "Allah memiliki kekuasaan mutlak untuk melakukan atau meninggalkan segala sesuatu yang Dia kehendaki.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kemampuan dan kekuatan dalam melaksanakan ibadah dan kebaikan.",
+        "referensi": [
+          "QS. Al-Baqarah: 20"
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "arabic": "ٱلْمُقْتَدِرُ",
+      "latin": "Al-Muqtadir",
+      "en": "The Determiner, The Dominant",
+      "idn": "Yang Maha Menentukan/Maha Berkuasa",
+      "faedah": {
+        "makna": "Allah Maha Menentukan dan memiliki kekuasaan penuh atas segala sesuatu yang bersifat detail dan terperinci.",
+        "amalan": "Berdoa dengan nama ini untuk memohon keberanian dan kekuasaan yang benar di mata Allah.",
+        "referensi": [
+          "QS. Al-Qamar: 42"
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "arabic": "ٱلْمُقَدِّمُ",
+      "latin": "Al-Muqaddim",
+      "en": "The Expediter, The Advancer",
+      "idn": "Yang Maha Mendahulukan",
+      "faedah": {
+        "makna": "Allah mendahulukan siapa pun yang Dia kehendaki atas makhluk-Nya dalam hal derajat, rezeki, atau kematian.",
+        "amalan": "Berdoa dengan nama ini untuk memohon agar selalu menjadi yang terdepan dalam kebaikan dan ketaatan.",
+        "referensi": [
+          "QS. Qaf: 28"
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "arabic": "ٱلْمُؤَخِّرُ",
+      "latin": "Al-Mu’akhkhir",
+      "en": "The Delayer, The Postponer",
+      "idn": "Yang Maha Mengakhirkan",
+      "faedah": {
+        "makna": "Allah mengakhirkan atau menangguhkan sesuatu sesuai kehendak-Nya, termasuk hukuman atau ajal.",
+        "amalan": "Berdoa dengan nama ini untuk memohon penundaan hukuman dan panjang umur dalam kebaikan.",
+        "referensi": [
+          "QS. Nuuh: 4"
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "arabic": "ٱلْأَوَّلُ",
+      "latin": "Al-Awwal",
+      "en": "The First",
+      "idn": "Yang Maha Awal",
+      "faedah": {
+        "makna": "Allah adalah yang pertama, tidak ada permulaan bagi wujud-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon keberkahan di awal setiap pekerjaan dan urusan.",
+        "referensi": [
+          "QS. Al-Hadiid: 3"
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "arabic": "ٱلْآخِرُ",
+      "latin": "Al-Aakhir",
+      "en": "The Last",
+      "idn": "Yang Maha Akhir",
+      "faedah": {
+        "makna": "Allah adalah yang terakhir, tidak ada akhir bagi wujud-Nya; kekal abadi.",
+        "amalan": "Berdoa dengan nama ini untuk memohon akhir kehidupan yang baik (husnul khatimah).",
+        "referensi": [
+          "QS. Al-Hadiid: 3"
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "arabic": "ٱلظَّاهِرُ",
+      "latin": "Az-Zhaahir",
+      "en": "The Manifest, The Evident",
+      "idn": "Yang Maha Nyata/Zahir",
+      "faedah": {
+        "makna": "Allah Maha Nyata, keberadaan-Nya terbukti melalui tanda-tanda kebesaran-Nya di alam semesta.",
+        "amalan": "Berdoa dengan nama ini untuk memohon penyingkapan kebenaran dan ketampakan rahmat-Nya.",
+        "referensi": [
+          "QS. Al-Hadiid: 3"
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "arabic": "ٱلْبَاطِنُ",
+      "latin": "Al-Baathin",
+      "en": "The Hidden One, The Inner",
+      "idn": "Yang Maha Tersembunyi/Batin",
+      "faedah": {
+        "makna": "Allah Maha Tersembunyi, Dia mengetahui segala sesuatu yang tersembunyi tanpa dapat dijangkau oleh akal manusia.",
+        "amalan": "Berdoa dengan nama ini untuk memohon perlindungan dari niat buruk yang tersembunyi dan dimudahkan urusan batin.",
+        "referensi": [
+          "QS. Al-Hadiid: 3"
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "arabic": "ٱلْوَالِي",
+      "latin": "Al-Waali",
+      "en": "The Governor, The Ruler",
+      "idn": "Yang Maha Memerintah/Menguasai",
+      "faedah": {
+        "makna": "Allah adalah penguasa, pemilik, dan pengatur tunggal seluruh alam semesta.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kepemimpinan yang adil dan kemudahan dalam urusan pemerintahan/organisasi.",
+        "referensi": [
+          "QS. Ar-Ra’d: 11"
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "arabic": "ٱلْمُتَعَالِي",
+      "latin": "Al-Muta’aali",
+      "en": "The Most Exalted, The Supreme",
+      "idn": "Yang Maha Tinggi/Suci",
+      "faedah": {
+        "makna": "Allah Maha Tinggi dan Suci dari segala sifat yang tidak pantas bagi-Nya, di atas segala-galanya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon ditinggikan derajat dan dijauhkan dari kerendahan moral.",
+        "referensi": [
+          "QS. Ar-Ra’d: 9"
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "arabic": "ٱلْبَرُّ",
+      "latin": "Al-Barr",
+      "en": "The Source of All Goodness, The Pious",
+      "idn": "Yang Maha Penderma/Maha Baik",
+      "faedah": {
+        "makna": "Allah adalah sumber segala kebaikan, kemuliaan, dan kelembutan bagi hamba-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kebaikan di dunia dan akhirat, serta mendapatkan pertolongan.",
+        "referensi": [
+          "QS. Ath-Thuur: 28"
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "arabic": "ٱلتَّوَّابُ",
+      "latin": "At-Tawwaab",
+      "en": "The Acceptor of Repentance",
+      "idn": "Yang Maha Penerima Taubat",
+      "faedah": {
+        "makna": "Allah menerima taubat hamba-Nya, meskipun dosa yang dilakukan sangat besar.",
+        "amalan": "Memperbanyak taubat (istighfar) dan berzikir dengan nama ini untuk memohon taubat yang diterima.",
+        "referensi": [
+          "QS. Al-Baqarah: 160"
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "arabic": "ٱلْمُنْتَقِمُ",
+      "latin": "Al-Muntaqim",
+      "en": "The Avenger",
+      "idn": "Yang Maha Pemberi Balasan/Hukuman",
+      "faedah": {
+        "makna": "Allah akan memberikan balasan dan hukuman yang setimpal kepada orang-orang yang berbuat zalim dan maksiat.",
+        "amalan": "Berlindung kepada Allah dengan nama ini agar terhindar dari kezaliman dan menghukum musuh yang melampaui batas.",
+        "referensi": [
+          "QS. As-Sajdah: 22"
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "arabic": "ٱلْعَفُوُّ",
+      "latin": "Al-‘Afuww",
+      "en": "The Pardoner, The Effacer",
+      "idn": "Yang Maha Pemaaf",
+      "faedah": {
+        "makna": "Allah Maha Pemaaf, menghapus dosa dan kesalahan hamba-Nya tanpa meninggalkan bekas hukuman.",
+        "amalan": "Memperbanyak doa memohon maaf (ampunan) pada Allah, terutama di bulan Ramadhan.",
+        "referensi": [
+          "QS. An-Nisaa’: 99"
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "arabic": "ٱلرَّءُوفُ",
+      "latin": "Ar-Ra’uuf",
+      "en": "The Compassionate, The All-Pitying",
+      "idn": "Yang Maha Pengasih/Maha Lembut",
+      "faedah": {
+        "makna": "Allah memiliki kasih sayang dan kelembutan yang sangat mendalam kepada makhluk-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kasih sayang dan kelembutan hati dari Allah.",
+        "referensi": [
+          "QS. Al-Baqarah: 143"
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "arabic": "مَـٰلِكُ ٱلْمُلْكِ",
+      "latin": "Maalikul Mulk",
+      "en": "The Owner of All Sovereignty",
+      "idn": "Yang Maha Memiliki Kerajaan",
+      "faedah": {
+        "makna": "Allah adalah Pemilik mutlak seluruh kerajaan, kekuasaan, dan pemerintahan di alam semesta.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kekayaan, kekuasaan yang berkah, dan kemerdekaan dari ketergantungan pada manusia.",
+        "referensi": [
+          "QS. Ali ‘Imran: 26"
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "arabic": "ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "latin": "Dzul Jalaali Wal Ikraam",
+      "en": "The Lord of Majesty and Honour",
+      "idn": "Yang Maha Memiliki Kebesaran dan Kemuliaan",
+      "faedah": {
+        "makna": "Allah adalah Pemilik kesempurnaan dan keagungan (Jalaal) sekaligus kebaikan dan kemurahan (Ikraam).",
+        "amalan": "Memperbanyak zikir dengan nama ini, terutama saat berlapang dada dan mengharapkan ampunan/pahala.",
+        "referensi": [
+          "QS. Ar-Rahman: 27"
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "arabic": "ٱلْمُقْسِطُ",
+      "latin": "Al-Muqsith",
+      "en": "The Just One, The Equitable",
+      "idn": "Yang Maha Adil/Pemberi Keadilan",
+      "faedah": {
+        "makna": "Allah menegakkan keadilan dengan sempurna, memberikan hak kepada setiap yang berhak tanpa kurang sedikit pun.",
+        "amalan": "Berdoa dengan nama ini untuk memohon keadilan dalam setiap masalah dan meluruskan hati.",
+        "referensi": [
+          "QS. Ali ‘Imran: 18"
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "arabic": "ٱلْجَامِعُ",
+      "latin": "Al-Jaami’",
+      "en": "The Gatherer, The Uniter",
+      "idn": "Yang Maha Mengumpulkan",
+      "faedah": {
+        "makna": "Allah mengumpulkan seluruh makhluk pada Hari Kiamat, atau mengumpulkan hal-hal yang tercerai-berai.",
+        "amalan": "Berdoa dengan nama ini untuk memohon dipersatukan dengan orang-orang tercinta di surga dan dikumpulkan dengan rezeki yang baik.",
+        "referensi": [
+          "QS. Ali ‘Imran: 9"
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "arabic": "ٱلْغَنِيُّ",
+      "latin": "Al-Ghaniyy",
+      "en": "The Self-Sufficient, The Rich",
+      "idn": "Yang Maha Kaya",
+      "faedah": {
+        "makna": "Allah Maha Kaya dan tidak membutuhkan apa-apa dari makhluk-Nya, kekayaan-Nya tidak terbatas.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kekayaan hati (jiwa) dan kecukupan materi, serta dijauhkan dari kemiskinan.",
+        "referensi": [
+          "QS. Faathir: 15"
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "arabic": "ٱلْمُغْنِي",
+      "latin": "Al-Mughnii",
+      "en": "The Enricher, The Sufficer",
+      "idn": "Yang Maha Memberi Kekayaan",
+      "faedah": {
+        "makna": "Allah memberi kekayaan dan mencukupi kebutuhan siapa pun yang Dia kehendaki.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kecukupan rezeki yang halal, dan penguatan iman.",
+        "referensi": [
+          "QS. At-Taubah: 28"
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "arabic": "ٱلْمَانِعُ",
+      "latin": "Al-Maani’",
+      "en": "The Preventer, The Defender",
+      "idn": "Yang Maha Mencegah/Menolak",
+      "faedah": {
+        "makna": "Allah mencegah dan menolak hal-hal yang tidak dikehendaki-Nya, seperti bahaya dan kemudaratan.",
+        "amalan": "Berdoa dengan nama ini untuk memohon perlindungan dari musibah, bahaya, dan fitnah.",
+        "referensi": [
+          "Diturunkan dari Hadits tentang bilangan Asmaul Husna"
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "arabic": "ٱلضَّارُّ",
+      "latin": "Adh-Dhaarr",
+      "en": "The Distresser, The Creator of Harm",
+      "idn": "Yang Maha Pemberi Bahaya",
+      "faedah": {
+        "makna": "Allah menciptakan dan menetapkan bahaya atau kerugian atas siapa pun yang Dia kehendaki, sebagai ujian atau hukuman.",
+        "amalan": "Berdoa dengan nama ini (sering digandengkan dengan An-Naafi’) agar dijauhkan dari segala marabahaya.",
+        "referensi": [
+          "Diturunkan dari Hadits tentang bilangan Asmaul Husna"
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "arabic": "ٱلنَّافِعُ",
+      "latin": "An-Naafi’",
+      "en": "The Benefactor, The Creator of Good",
+      "idn": "Yang Maha Pemberi Manfaat",
+      "faedah": {
+        "makna": "Allah menciptakan dan menganugerahkan manfaat serta kebaikan kepada makhluk-Nya.",
+        "amalan": "Berdoa dengan nama ini (sering digandengkan dengan Adh-Dhaarr) untuk memohon kemanfaatan di setiap aspek kehidupan.",
+        "referensi": [
+          "Diturunkan dari Hadits tentang bilangan Asmaul Husna"
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "arabic": "ٱلنُّورُ",
+      "latin": "An-Nuur",
+      "en": "The Light",
+      "idn": "Yang Maha Bercahaya",
+      "faedah": {
+        "makna": "Allah adalah cahaya langit dan bumi, yang menerangi hati hamba-Nya dengan hidayah dan ilmu.",
+        "amalan": "Berdoa dengan nama ini untuk memohon cahaya hidayah, ilmu, dan penerangan dalam kegelapan (kesulitan).",
+        "referensi": [
+          "QS. An-Nuur: 35"
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "arabic": "ٱلْهَادِي",
+      "latin": "Al-Haadi",
+      "en": "The Guide, The Way",
+      "idn": "Yang Maha Memberi Petunjuk",
+      "faedah": {
+        "makna": "Allah memberi petunjuk kepada seluruh makhluk-Nya, baik petunjuk umum maupun khusus (hidayah iman).",
+        "amalan": "Berdoa dengan nama ini untuk memohon petunjuk ke jalan yang lurus dan kekuatan untuk mengamalkan kebenaran.",
+        "referensi": [
+          "QS. Al-Hajj: 54"
+        ]
+      }
+    },
+    {
+      "id": 95,
+      "arabic": "ٱلْبَدِيعُ",
+      "latin": "Al-Badii’",
+      "en": "The Originator, The Incomparable",
+      "idn": "Yang Maha Pencipta yang Tiada Tandingannya",
+      "faedah": {
+        "makna": "Allah menciptakan sesuatu yang indah dan menakjubkan tanpa contoh sebelumnya, keindahan-Nya tiada tara.",
+        "amalan": "Berdoa dengan nama ini untuk memohon kemampuan berpikir kreatif dan menemukan solusi yang orisinal.",
+        "referensi": [
+          "QS. Al-Baqarah: 117"
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "arabic": "ٱلْبَاقِي",
+      "latin": "Al-Baaqi",
+      "en": "The Everlasting, The Immutable",
+      "idn": "Yang Maha Kekal",
+      "faedah": {
+        "makna": "Allah kekal abadi, tidak akan musnah atau binasa, berbeda dengan makhluk-Nya.",
+        "amalan": "Berzikir dengan nama ini untuk menumbuhkan rasa tawakal dan tidak menggantungkan harapan pada hal-hal fana (duniawi).",
+        "referensi": [
+          "QS. Ar-Rahman: 27"
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "arabic": "ٱلْوَارِثُ",
+      "latin": "Al-Waarith",
+      "en": "The Inheritor, The Supreme Heir",
+      "idn": "Yang Maha Mewarisi",
+      "faedah": {
+        "makna": "Allah adalah pewaris sejati segala sesuatu setelah makhluk-Nya binasa; segala yang ada akan kembali kepada-Nya.",
+        "amalan": "Berdoa dengan nama ini untuk memohon warisan yang baik berupa ilmu, harta, atau surga di akhirat.",
+        "referensi": [
+          "QS. Al-Hijr: 23"
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "arabic": "ٱلرَّشِيدُ",
+      "latin": "Ar-Rasyiid",
+      "en": "The Guide to the Right Path, The Rightly Guided",
+      "idn": "Yang Maha Pandai/Maha Pemberi Petunjuk",
+      "faedah": {
+        "makna": "Allah adalah penunjuk jalan yang benar, segala tindakan-Nya adalah benar, lurus, dan bijaksana.",
+        "amalan": "Berdoa dengan nama ini untuk memohon petunjuk agar terhindar dari kesesatan dan diberi kebijaksanaan dalam hidup.",
+        "referensi": [
+          "QS. Al-Jin: 10"
+        ]
+      }
+    },
+    {
+      "id": 99,
+      "arabic": "ٱلصَّبُورُ",
+      "latin": "Ash-Shobuur",
+      "en": "The Patient One, The Enduring",
+      "idn": "Yang Maha Sabar",
+      "faedah": {
+        "makna": "Allah sangat sabar, tidak tergesa-gesa dalam menghukum dan senantiasa memberi waktu untuk bertaubat.",
+        "amalan": "Berdoa dan berzikir dengan nama ini untuk memohon kesabaran, ketahanan dalam menghadapi cobaan, dan ketenangan batin.",
+        "referensi": [
+          "QS. Al-Baqarah: 153"
+        ]
+      }
+    }
+  ]
+}
